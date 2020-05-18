@@ -7,10 +7,10 @@
 Following are the rules set by the game designers.
 
 ### In Real World
-Comming soon
+Coming soon
 
 ### In This Game
-Comming soon
+Coming soon
 
 
 ## Setup
@@ -36,4 +36,4 @@ Enjoy your game. **Remember, the board rotates!**
 
 
 ## Developers
-Comming soon
+Coming soon
